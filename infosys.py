@@ -7,20 +7,10 @@ import re
 import os
 from difflib import get_close_matches
 import streamlit as st
-import kagglehub
-path = kagglehub.dataset_download("niksaurabh/doctors-speciality")
 
-print("Path to dataset files:", path)
-
-# Load the dataset into a Pandas DataFrame
-csv_files = [file for file in os.listdir(path) if file.endswith('.csv')]
-
-if csv_files:
-    file_path = os.path.join(path, csv_files[0])
-    df = pd.read_csv(file_path)
 
 # Dictionary to store doctors by specialty
-doctors_by_specialty = df.groupby('speciality')['Doctor\'s Name'].apply(list).to_dict()
+
 
 # Mapping of symptoms to specialties
 symptom_to_specialty = {
