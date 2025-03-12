@@ -56,7 +56,7 @@ streamlit run app.py
 ## 📌 About the Developer
 **Ankit Kumar**
 - **B.Tech CSE (AI) Student** at *Noida Institute of Engineering and Technology*
-- Passionate about AI, ML, and Full-Stack Development
+- Passionate about AI, ML, Data Analysis and Data Science
 - Connect with me on **[LinkedIn](https://linkedin.com/in/ankitkumar(anris))**
 
 ## 📜 License
