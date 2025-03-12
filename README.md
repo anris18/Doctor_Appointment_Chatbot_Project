@@ -43,8 +43,7 @@ cd doctor-appointment-chatbot
 ### 2️⃣ Set Up Backend
 ```bash
 cd backend
-pip install -r requirements.txt
-python app.py
+pip install all libraries (Install all libraries according to the code)
 ```
 
 ### 3️⃣ Set Up Frontend
