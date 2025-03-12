@@ -2,7 +2,9 @@
 
 ## 📌 Project Overview
 The **Doctor Appointment Chatbot** is an AI-powered web application designed to streamline the process of scheduling doctor appointments. This chatbot interacts with users, understands their requirements, and helps them book appointments efficiently. It enhances user experience by reducing manual booking efforts and providing a seamless healthcare service.
+
 Deployment Link = https://doctorappointmentchatbotproject-jsdxyjsvbuzf5hzcwhqzrw.streamlit.app/
+
 Roadmap Link - https://lucid.app/lucidchart/2f244395-47b6-4023-86cb-cb0763665da3/edit?viewport_loc=-86%2C43%2C1793%2C798%2C0_0&invitationId=inv_d2770b09-c37f-4233-aed5-698445a2cdfe
 
 ## 🛠️ Technologies Used
