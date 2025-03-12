@@ -29,8 +29,7 @@ The **Doctor Appointment Chatbot** is an AI-powered web application designed to 
 │   ├── app.py               # Streamlit UI
 │   ├── chatbot_ui.py        # Chatbot interaction interface
 │   └── requirements.txt     # Dependencies for frontend
-│
-└── README.md                # Project documentation
+
 ```
 
 ## 🚀 How to Run the Project
