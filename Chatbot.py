@@ -1,3 +1,5 @@
+import nltk
+nltk.download('punkt')  # add at top of your script
 import smtplib
 from datetime import datetime, timedelta
 from email.mime.text import MIMEText
